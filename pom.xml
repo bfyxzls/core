@@ -100,15 +100,15 @@
         </pluginRepository>
     </pluginRepositories>
 
-    <!-- 公用类库添加注释下面的插件 -->
-    <!--<build>-->
-    <!--<plugins>-->
-    <!--<plugin>-->
-    <!--<groupId>org.springframework.boot</groupId>-->
-    <!--<artifactId>spring-boot-maven-plugin</artifactId>-->
-    <!--</plugin>-->
-    <!--</plugins>-->
-    <!--</build>-->
-
+    <!-- 公用类库添加注释下面的插件
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+-->
 
 </project>
